@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "username": "aamte",
+    "amount": 700,
+    "payment_method": "Cash",
+    "transaction_type": "credit_purchase",
+    "timestamp": "2025-08-27 07:10:30",
+    "admin": "amte"
+  },
+  {
+    "id": 2,
+    "username": "amte36",
+    "amount": 950,
+    "payment_method": "Cash",
+    "transaction_type": "credit_purchase",
+    "timestamp": "2025-08-27 12:08:36",
+    "admin": "amte36"
+  },
+  {
+    "id": 3,
+    "username": "amte36",
+    "amount": -1800,
+    "payment_method": "Admin Adjustment",
+    "transaction_type": "balance_adjustment",
+    "timestamp": "2025-08-27 12:09:44",
+    "admin": "amte36"
+  }
+]

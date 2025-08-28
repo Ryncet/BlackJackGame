@@ -1,0 +1,13 @@
+{
+  "amte36": {
+    "username": "amte36",
+    "password_hash": "c91755d611c5da5b12dfcf61c3f9ca2c9c9f66f93134eee1c97ea3f1e9886cc2",
+    "balance": 0,
+    "games_played": 2,
+    "games_won": 0,
+    "total_winnings": 0,
+    "biggest_win": 0,
+    "is_admin": true,
+    "created": "2025-08-27 12:04:50"
+  }
+}
